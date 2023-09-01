@@ -1,0 +1,51 @@
+{
+    "version": "0.0.113",
+    "plot_id": "66212ab4-419a-11ee-ad11-5606ff30333f",
+    "output_directory": "outputs/WikiArt_religious_painting",
+    "layouts": {
+        "umap": {
+            "variants": [
+                {
+                    "n_neighbors": 15,
+                    "min_dist": 0.01,
+                    "layout": "outputs/WikiArt_religious_painting/data/layouts/umap-66212ab4-419a-11ee-ad11-5606ff30333f.json",
+                    "jittered": "outputs/WikiArt_religious_painting/data/layouts/umap-jittered-66212ab4-419a-11ee-ad11-5606ff30333f.json"
+                }
+            ]
+        },
+        "alphabetic": {
+            "layout": "outputs/WikiArt_religious_painting/data/layouts/grid-66212ab4-419a-11ee-ad11-5606ff30333f.json"
+        },
+        "grid": {
+            "layout": "outputs/WikiArt_religious_painting/data/layouts/rasterfairy-66212ab4-419a-11ee-ad11-5606ff30333f.json"
+        },
+        "categorical": false,
+        "date": false,
+        "geographic": null,
+        "custom": null
+    },
+    "initial_layout": "umap",
+    "point_sizes": {
+        "min": 0,
+        "grid": 0.010752688172043012,
+        "max": 0.012903225806451613,
+        "scatter": 0.0021505376344086026,
+        "initial": 0.0021505376344086026,
+        "categorical": 0.0064516129032258064,
+        "geographic": 0.0002688172043010753
+    },
+    "imagelist": "outputs/WikiArt_religious_painting/data/imagelists/imagelist-66212ab4-419a-11ee-ad11-5606ff30333f.json",
+    "atlas_dir": "outputs/WikiArt_religious_painting/data/atlases/66212ab4-419a-11ee-ad11-5606ff30333f",
+    "metadata": false,
+    "default_hotspots": "outputs/WikiArt_religious_painting/data/hotspots/hotspot-66212ab4-419a-11ee-ad11-5606ff30333f.json",
+    "custom_hotspots": "outputs/WikiArt_religious_painting/data/hotspots/user_hotspots.json",
+    "gzipped": false,
+    "config": {
+        "sizes": {
+            "atlas": 2048,
+            "cell": 32,
+            "lod": 128
+        }
+    },
+    "creation_date": "23-August-2023-12:05:46"
+}
