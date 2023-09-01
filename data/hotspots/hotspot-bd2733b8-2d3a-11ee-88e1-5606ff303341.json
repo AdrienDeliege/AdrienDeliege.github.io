@@ -1,0 +1,52 @@
+[
+    {
+        "images": [
+            5,
+            8,
+            14,
+            20,
+            21,
+            22,
+            24,
+            25,
+            26,
+            27,
+            29
+        ],
+        "img": "f104e25c6a6d4fb919e8abb522a5ea44c.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 1"
+    },
+    {
+        "images": [
+            0,
+            4,
+            6,
+            7,
+            9,
+            10,
+            12,
+            15,
+            17,
+            23
+        ],
+        "img": "b53b27ca714a855468f771a65d6850ebc.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 2"
+    },
+    {
+        "images": [
+            1,
+            2,
+            3,
+            11,
+            13,
+            16,
+            18,
+            19
+        ],
+        "img": "adfd1be2513a9a69b33b2f72a4dd6469c.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 3"
+    }
+]

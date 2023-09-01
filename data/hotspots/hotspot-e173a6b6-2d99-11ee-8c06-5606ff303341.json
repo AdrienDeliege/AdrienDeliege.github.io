@@ -1,0 +1,55 @@
+[
+    {
+        "images": [
+            1,
+            2,
+            5,
+            8,
+            11,
+            16,
+            19,
+            25,
+            27,
+            28,
+            30
+        ],
+        "img": "fac80419d21cbded8e9c06052829f6c4c.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 1"
+    },
+    {
+        "images": [
+            4,
+            7,
+            9,
+            15,
+            21,
+            22,
+            26,
+            29
+        ],
+        "img": "f104e25c6a6d4fb919e8abb522a5ea44c.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 2"
+    },
+    {
+        "images": [
+            0,
+            10,
+            17
+        ],
+        "img": "9fabb4d78a72d2652d1cec0018cc648ec.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 3"
+    },
+    {
+        "images": [
+            6,
+            12,
+            18
+        ],
+        "img": "ac34744880e72660434c6dbb33c56d86c.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 4"
+    }
+]

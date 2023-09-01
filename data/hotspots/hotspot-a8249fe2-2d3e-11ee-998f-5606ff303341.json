@@ -1,0 +1,30 @@
+[
+    {
+        "images": [
+            1,
+            5,
+            8,
+            11,
+            16,
+            19,
+            25,
+            27,
+            30
+        ],
+        "img": "fac80419d21cbded8e9c06052829f6c4c.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 1"
+    },
+    {
+        "images": [
+            4,
+            9,
+            15,
+            21,
+            29
+        ],
+        "img": "f104e25c6a6d4fb919e8abb522a5ea44c.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 2"
+    }
+]
